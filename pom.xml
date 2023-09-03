@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.roadmaps</groupId>
 	<artifactId>tileMetadata</artifactId>
-	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tileMetadata</name>
 	<description>tileMetadata</description>
@@ -40,6 +39,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>roadmaps1.1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

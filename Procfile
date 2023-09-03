@@ -1,1 +1,1 @@
-web: java -jar target/tileMetadata-0.0.1-SNAPSHOT.jar
+web: java -jar target/roadmaps1.1.jar
