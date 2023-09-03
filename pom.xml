@@ -39,15 +39,7 @@
 	</dependencies>
 
 	<build>
-<<<<<<< HEAD
-		<finalName>roadmaps1.1</finalName>
-=======
-<<<<<<< HEAD
-		<finalName>roadmaps1.1</finalName>
-=======
 		<finalName>roadmaps1.2</finalName>
->>>>>>> 3015f86 (Backend code for roadmaps.fyi)
->>>>>>> 92f3068 (Backend code for roadmaps.fyi)
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
