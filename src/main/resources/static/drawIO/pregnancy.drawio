@@ -1,0 +1,302 @@
+<mxfile host="app.diagrams.net" modified="2023-07-22T07:01:32.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LmxOH3n7xwN6rV2_j2eN" version="21.6.5" type="device">
+  <diagram name="Page-1" id="ALI6HYOYaTasfBxX3Xh4">
+    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-1" value="Pregnancy Month by Month Journey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-4" target="dZl6FqyL0_K5i2ryWIJ9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-4" target="dZl6FqyL0_K5i2ryWIJ9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-4" value="0 Month" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-13" target="dZl6FqyL0_K5i2ryWIJ9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-13" target="dZl6FqyL0_K5i2ryWIJ9-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-13" value="1 Month&lt;br&gt;[Week 1 - Week 4]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dZl6FqyL0_K5i2ryWIJ9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-37" value="Conception" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#07090D;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-39" value="Baby size = Raspberry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#07090D;strokeColor=#006EAF;gradientColor=#fcfcfc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-40" value="Baby size = Avocado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#001DBC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-41" value="Baby size = Lime" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#07090D;strokeColor=#006EAF;gradientColor=#fcfcfc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-42" value="Baby size = Banana" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#2D7600;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-43" value="Baby size = Corn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#BD7000;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-44" value="Baby size = Cauliflower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#BD7000;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-45" value="&amp;nbsp;Baby size = Squash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#2D7600;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-46" value="Baby size = Lettuce" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#001DBC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-48" value="Women&#39;s egg fertilized by man&#39;s sperm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#07090D;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-49" value="&lt;font&gt;Baby size = Poppy Seed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=default;gradientColor=#fcfcfc;fontColor=#07090D;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-50" value="&lt;font&gt;- Tender breast&lt;br&gt;- Missed periods&lt;br&gt;- Fatigue&lt;br&gt;- Nausea&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=#6c8ebf;gradientColor=#fcfcfc;fontColor=#07090D;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-51" value="- Heartburn&lt;br&gt;- Faster heart rate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#07090D;strokeColor=#006EAF;gradientColor=#fcfcfc;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-52" target="dZl6FqyL0_K5i2ryWIJ9-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-52" value="- Constipation&lt;br&gt;- Backache&lt;br&gt;- Small baby bump" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#001DBC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-53" value="- Start feeling baby kicks&lt;br&gt;- Moodiness&lt;br&gt;- Swollen legs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#2D7600;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-54" value="- Leg cramps&lt;br&gt;- Bleeding gums&lt;br&gt;- Backaches" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#BD7000;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-55" value="- Darker areolas&lt;br&gt;- Morning sickness&lt;br&gt;- Frequent urination&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#07090D;strokeColor=#006EAF;gradientColor=#fcfcfc;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-58" value="- Breast leakage&lt;br&gt;- Sleeplessness and fatigue&lt;br&gt;- Braxton Hicks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#001DBC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-59" value="- Trouble sleeping&amp;nbsp;&lt;br&gt;- Hemorrhoids&lt;br&gt;- Shortness of breath" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#2D7600;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-60" target="dZl6FqyL0_K5i2ryWIJ9-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-60" value="- Stretch marks&lt;br&gt;- Frequent urination&lt;br&gt;- Back pain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#BD7000;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-61" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="40" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-64" value="1st Trimester" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="720" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="40" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-66" value="2nd Trimester" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="531.25" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-67" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="680" y="680" width="40" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-68" value="3rd Trimester" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="720" y="770" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="309.5" as="sourcePoint" />
+            <mxPoint x="480" y="309.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="310" />
+              <mxPoint x="460" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-76" value="1st Prenatal checkup +&lt;br&gt;1st Ultra sound scanning&lt;br&gt;+&lt;br&gt;Blood and Urine lab tests" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#07090D;strokeColor=#006EAF;gradientColor=#fcfcfc;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-77" value="Genetic Carrier screening +&lt;br&gt;Routine pre natal checkup &lt;br&gt;+&lt;br&gt;Gender Reveal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#07090D;strokeColor=#006EAF;gradientColor=#fcfcfc;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="389.5" as="sourcePoint" />
+            <mxPoint x="480" y="389.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="390" />
+              <mxPoint x="460" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-79" value="Routine pre natal checkup" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#001DBC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-81" value="Routine pre natal checkup +&lt;br&gt;Ultrasound anomaly scan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#001DBC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="517.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="549.5" as="sourcePoint" />
+            <mxPoint x="480" y="549.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-83" value="Blood test to confirm pregnancy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#07090D;strokeColor=#006EAF;gradientColor=#fcfcfc;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="229.5" as="sourcePoint" />
+            <mxPoint x="480" y="229.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="230" />
+              <mxPoint x="460" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-85" value="&amp;nbsp;Routine pre natal checkup +&lt;br&gt;2nd dose of Tetanus shot +&lt;br&gt;Growth ulta-sound scan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#BD7000;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-87" value="Routine pre natal checkup +&lt;br&gt;1st dose of Tetanus shot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#07090D;strokeColor=#001DBC;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="629.5" as="sourcePoint" />
+            <mxPoint x="480" y="629.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-89" value="Routine pre natal checkup +&lt;br&gt;Baby Shower&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#BD7000;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="757.5" width="160" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-90" value="Routine pre natal checkup +&lt;br&gt;Growth ultra sound scan +&lt;br&gt;Blood test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#07090D;strokeColor=#BD7000;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="789.5" as="sourcePoint" />
+            <mxPoint x="480" y="789.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="869.5" as="sourcePoint" />
+            <mxPoint x="480" y="869.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-94" target="dZl6FqyL0_K5i2ryWIJ9-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-94" value="2 Months&lt;br&gt;[Week 5 - Week 8]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-95" target="dZl6FqyL0_K5i2ryWIJ9-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-95" value="3 Months&lt;br&gt;[Week 9 - Week 12]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-97" target="dZl6FqyL0_K5i2ryWIJ9-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-97" value="4 Months&lt;br&gt;[Week 13 - Week 16]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-98" target="dZl6FqyL0_K5i2ryWIJ9-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-98" value="6 Months&lt;br&gt;[Week 21 - Week 24]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-99" target="dZl6FqyL0_K5i2ryWIJ9-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-99" value="5 Months&lt;br&gt;[Week 17 - Week 20]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-100" value="7 Months&lt;br&gt;[Week 25 - Week 28]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-101" target="dZl6FqyL0_K5i2ryWIJ9-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-101" value="8 Months&lt;br&gt;[Week 29 - Week 32]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="768.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-102" target="dZl6FqyL0_K5i2ryWIJ9-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-102" value="&amp;nbsp;9 Months&lt;br&gt;[Week 33 - Week 36]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZl6FqyL0_K5i2ryWIJ9-103" target="dZl6FqyL0_K5i2ryWIJ9-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-103" value="&amp;nbsp;10 Months&lt;br&gt;[Week 37 - Week 40]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-104" value="Baby size = Watermelon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-105" value="- Expanded Uterus&amp;nbsp;&lt;br&gt;- Constipation&lt;br&gt;- Sharp pain in vagina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-106" value="-- Vaginal examination&amp;nbsp;&lt;br&gt;+&lt;br&gt;Baby is Out !!!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZl6FqyL0_K5i2ryWIJ9-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="949.5" as="sourcePoint" />
+            <mxPoint x="480" y="949.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
