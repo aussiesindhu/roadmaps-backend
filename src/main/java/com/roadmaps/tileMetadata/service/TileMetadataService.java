@@ -38,11 +38,11 @@ public class TileMetadataService {
                 true));
         tileMetadataList.add(new TileMetadata(
                 4,
-                "Coming Soon",
-                "Coming_Soon",
-                "thumbnails/coming_soon.png",
-                "thumbnails/coming_soon.png",
-                false));
+                "Coding",
+                "coding",
+                "thumbnails/coding_thumbnail.png",
+                "drawIOPNG/coding.drawio.png",
+                true));
     }
     public Optional<TileMetadata> getData(int id) {
         Optional optional = Optional.empty();
